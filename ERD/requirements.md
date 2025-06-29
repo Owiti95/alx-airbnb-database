@@ -1,5 +1,8 @@
-🔹 Identify All Entities and Their Attributes
-The 6 main entities are:
+Here is the link to the ERD:
+https://drive.google.com/file/d/1HGOBYR2sLfEGE5M-t8r8AhlscxyOE7tw/view?usp=sharing
+
+🔹 All Entities and Their Attributes
+The entities are:
 
 User
 
